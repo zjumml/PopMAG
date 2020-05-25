@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://music-popmag.github.io/categories/</loc>
+    <lastmod>2020-05-20T15:30:00+09:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://music-popmag.github.io/tags/musicgeneration/</loc>
+    <lastmod>2020-05-20T15:30:00+09:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://music-popmag.github.io/categories/musicgeneration/</loc>
+    <lastmod>2020-05-20T15:30:00+09:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://music-popmag.github.io/</loc>
+    <lastmod>2020-05-20T15:30:00+09:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://music-popmag.github.io/popmag/</loc>
+    <lastmod>2020-05-20T15:30:00+09:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://music-popmag.github.io/tags/</loc>
+    <lastmod>2020-05-20T15:30:00+09:01</lastmod>
+  </url>
+  
+</urlset>
