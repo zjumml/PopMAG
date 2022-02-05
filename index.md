@@ -23,6 +23,7 @@ We did not release the source codes since our model has been transferred to some
 
 ## Audio Samples
 
+<table><thead>
 <tr>
 <th style="text-align: center">/</th>
 <th style="text-align: center">Melody (Input)</th>
@@ -31,31 +32,33 @@ We did not release the source codes since our model has been transferred to some
 </tr></thead><tbody>
 <tr>
 <td>Sample 1</td>
-<td><audio controls="controls" ><source src="../audio/4_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/4_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/4_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/4_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/4_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/4_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
 </tr>
 <tr>
 <td>Sample 2</td>
-<td><audio controls="controls" ><source src="../audio/2_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/2_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/2_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/2_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/2_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/2_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
 </tr>
 <tr>
 <td>Sample 3</td>
-<td><audio controls="controls" ><source src="../audio/3_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/3_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/3_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/3_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/3_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/3_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
 </tr>
 <tr>
 <td>Sample 4</td>
-<td><audio controls="controls" ><source src="../audio/1_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/1_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
-<td><audio controls="controls" ><source src="../audio/1_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/1_lead.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/1_pred.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="audio/1_gt.wav" autoplay/>Your browser does not support the audio element.</audio></td>
 </tr>
 </tbody>
 </table>
-<h3 id="midi-pianoroll">MIDI (Pianoroll)</h3>
+
+## MIDI (Pianoroll)
+
 <table><thead>
 <tr>
 <th style="text-align: center">/</th>
@@ -64,21 +67,21 @@ We did not release the source codes since our model has been transferred to some
 </tr></thead><tbody>
 <tr>
 <td>Sample 1</td>
-<td> <img src='../pianoroll/4_pred.png'/><br></td>
-<td> <img src='../pianoroll/4_gt.png'/><br></td>
+<td> <img src='pianoroll/4_pred.png'/><br></td>
+<td> <img src='pianoroll/4_gt.png'/><br></td>
 </tr>
 <td>Sample 2</td>
-<td> <img src='../pianoroll/2_pred.png'/><br></td>
-<td> <img src='../pianoroll/2_gt.png'/><br></td>
+<td> <img src='pianoroll/2_pred.png'/><br></td>
+<td> <img src='pianoroll/2_gt.png'/><br></td>
 </tr>
 <td>Sample 3</td>
-<td> <img src='../pianoroll/3_pred.png'/><br></td>
-<td> <img src='../pianoroll/3_gt.png'/><br></td>
+<td> <img src='pianoroll/3_pred.png'/><br></td>
+<td> <img src='pianoroll/3_gt.png'/><br></td>
 </tr>
 </tr>
 <td>Sample 4</td>
-<td> <img src='../pianoroll/1_pred.png'/><br></td>
-<td> <img src='../pianoroll/1_gt.png'/><br></td>
+<td> <img src='pianoroll/1_pred.png'/><br></td>
+<td> <img src='pianoroll/1_gt.png'/><br></td>
 </tr>
 </tbody>
 </table>
